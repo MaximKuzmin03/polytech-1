@@ -125,17 +125,6 @@ XII
 В обитель дальнюю трудов и чистых нег.
 
 
-Пушкин А. С. - Я думал, сердце позабыло…
-
-Я думал, сердце позабыло
-Способность легкую страдать,
-Я говорил: тому, что было,
-Уж не бывать! уж не бывать!
-Прошли восторги, и печали,
-И легковерные мечты…
-Но вот опять затрепетали
-Пред мощной властью красоты.
-
 
 Pushkin A. S. - I thought my heart had forgotten…
 
@@ -147,3 +136,4 @@ The joys and sorrows have passed,
 And gullible dreams…
 But now they trembled again
 Before the powerful power of beauty.
+
